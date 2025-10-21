@@ -1,0 +1,7 @@
+purchase_id,product_id,producer_id,subsidiary,transaction_date,release_date,purchase_value,item_quantity,is_paid,is_current,created_at
+1,101,201,Nacional,2023-01-20,2023-01-20,100.0,1,True,True,2023-01-20 10:00:00
+1,101,201,Nacional,2023-02-05,2023-01-20,80.0,1,True,True,2023-02-05 15:00:00
+2,102,202,Internacional,2023-01-25,,200.0,2,False,True,2023-01-25 12:00:00
+2,102,202,Internacional,2023-01-28,2023-01-28,200.0,2,True,True,2023-01-28 10:00:00
+2,102,202,Nacional,2023-02-10,2023-01-28,200.0,2,True,True,2023-02-10 09:00:00
+3,103,203,Internacional,2023-02-15,2023-02-15,150.0,1,True,True,2023-02-15 13:00:00
